@@ -1,0 +1,9 @@
+# Ignore MySQL socket file
+project_3/mysql-data/mysql.sock
+
+# Ignore other problematic files (if any)
+project_3/.tern-project
+project_3/mysql-data/auto.cnf
+project_3/mysql-data/binlog.index
+project_3/mysql-data/ib_buffer_pool
+
